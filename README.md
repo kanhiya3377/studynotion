@@ -1,12 +1,31 @@
-# React + Vite
+# Studynotion 📚
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Studynotion is a **React + Node.js course management platform** that allows users to create, edit, and manage courses easily. It is built with modern technologies and focuses on scalability and user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- Create and edit courses dynamically
+- Upload course thumbnails, tags, and requirements
+- Redux for state management
+- Backend with Node.js & Express
+- MongoDB for database
+- File uploads with Cloudinary
+- Responsive design for all devices
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+**Frontend:** React, Redux, React Hook Form, TailwindCSS  
+**Backend:** Node.js, Express.js, MongoDB  
+**Cloud Services:** Cloudinary, Vercel (deployment)  
+
+---
+
+## 📦 Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/kanhiya3377/studynotion.git
+   cd studynotion
+npm install
+npm run dev
